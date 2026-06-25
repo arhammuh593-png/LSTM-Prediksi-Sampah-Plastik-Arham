@@ -1,0 +1,4 @@
+# .gitignore for Arham
+visualisasi/kurva_training.png.bak
+~$*
+*.py
